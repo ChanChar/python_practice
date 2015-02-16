@@ -1,6 +1,6 @@
-ID   FIRST NAME     LAST NAME      COUNTRY        
-1    Captain        Crunch         USA            
-2    Santi          Basulto        Argentina      
-3    Charlie        Lee            USA            
-4    Gayle          McDowell       USA            
-5    John           Steinbeck      USA            
+ID   |FIRST NAME     |LAST NAME      |COUNTRY        
+1    |Captain        |Crunch         |USA            
+2    |Santi          |Basulto        |Argentina      
+3    |Charlie        |Lee            |USA            
+4    |Gayle          |McDowell       |USA            
+5    |John           |Steinbeck      |USA            

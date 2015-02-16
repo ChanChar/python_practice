@@ -5,7 +5,6 @@ def test():
                   file_path="example_db.txt",
                   delimiter="|",
                   fields=["id", "first_name", "last_name", "country"])
-
     print(db.insert({"first_name": "Martin", "last_name": "Zugnoni", "country": "Argentina"}))
     print(db.insert({"first_name": "Santiago", "last_name": "Basulto", "country": "Argentina"}))
 
@@ -29,6 +28,5 @@ def test():
 
     # Be sure to migrate the db after all changed have been made.
     db.migrate_database()
-
 test()
 
